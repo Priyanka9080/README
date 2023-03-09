@@ -10,7 +10,7 @@
     <p>I am interested in Drawing,Music and I enjoy playing kabadi,khokho,shuttle.</p>
     <p>My Team Name is Team7.</p>
     <p>The Team Members are:-<p>
-    <p>   - Jane Preethi <br>   - Anushruthi<p>
+    <p> -priyanka<br>  - Jane Preethi <br>   - Anushruthi<p>
 
   </body>
 </html>
